@@ -1,6 +1,7 @@
 ## My Name is Li Wenqian 李文倩
 
-I am a second year Ph.D. student in the Institue of Operation Research and Analytics at National University of Singapore. 
+I am a second year Ph.D. student in the Institue of Operation Research and Analytics (IORA) at National University of Singapore. 
+
 I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/faculty-details/?profId=514), [Chou Mabel](https://bizfaculty.nus.edu.sg/faculty-details/?profId=112)  and [Li Yinchuan](https://yinchuanll.github.io/).  My research interests include federated learning and graph learning.
 
 I received my Bachelor degree in Information System and Information Management from Harbin Institute of Technology in 2020. 
