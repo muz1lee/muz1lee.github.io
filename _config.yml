@@ -1,5 +1,10 @@
 theme: jekyll-theme-architect
 
-name: "Li Wenqian`s blog"
+name: "Li Wenqian "
 
 description: "Hi this is Li Wenqian 李文倩"
+
+footer-links:
+  email: Wenqian@u.nus.edu
+  instagram: muz11ee
+  github: muz1lee
