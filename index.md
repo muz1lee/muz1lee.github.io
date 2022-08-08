@@ -3,8 +3,6 @@ I am a second year Ph.D. student in the Institue of Operation Research and Analy
 
 I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/faculty-details/?profId=514), [Chou Mabel](https://bizfaculty.nus.edu.sg/faculty-details/?profId=112)  and [Li Yinchuan](https://yinchuanll.github.io/). 
 
-My research interests include federated learning and graph learning.
-
 
 
 ## Education
@@ -15,7 +13,11 @@ My research interests include federated learning and graph learning.
 
 ## Research 
 
-Federated Learning, Graph Learning
+- Data Evaluation 
+
+- Federated Learning
+
+- Graph Learning
 
 ## Preprints
 
