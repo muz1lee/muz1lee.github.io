@@ -25,6 +25,8 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
   
     Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye HAO, Yan Pang
     
+2. Anonymous Paper (related to GNN), submitted to AAAI 2023
+    
 ## Internship 
 
 - 2021.12 - 2022.08 Huawei Noah's Ark Lab, AI Researcher
