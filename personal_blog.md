@@ -21,6 +21,7 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 
 ## Publications 
 1. GFlowDAG: Generative Flow Networks for Causal Discovery.  Accepted by NeurIPS 2022
+
     Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye HAO, Yan Pang
     
 ## Preprints
