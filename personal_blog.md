@@ -19,13 +19,15 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 
 - Graph Learning
 
-## Preprints
-
-1. Anonymous Paper (related to Causal Discovery), submitted to NeurIPS 2022
-  
+## Publications 
+1. GFlowDAG: Generative Flow Networks for Causal Discovery.  Accepted by NeurIPS 2022
     Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye HAO, Yan Pang
     
-2. Anonymous Paper (related to GNN), submitted to AAAI 2023
+## Preprints
+
+1. Anonymous Paper (related to active learning in GNN), submitted to AAAI 2023
+2. Anonymous Paper (related to GNN Explainations), submitted to ICLR 2022
+
     
 ## Internship 
 
