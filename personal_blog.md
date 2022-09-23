@@ -24,11 +24,11 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 
     Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye HAO, Yan Pang
     
-## Preprints
+<!-- ## Preprints
 
 1. Anonymous Paper (related to active learning in GNN), submitted to AAAI 2023
 2. Anonymous Paper (related to GNN Explainations), submitted to ICLR 2022
-
+ -->
     
 ## Internship 
 
