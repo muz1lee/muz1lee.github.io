@@ -24,14 +24,16 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 
     Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye HAO, Yan Pang
     
-    **Update**: This paper is 'on hold' due to a mistake on Conflicts of Interests from one of my co-authors.  
+    **Update**: This paper became 'on hold' one month after the results announcing,  due to a mistake on declaring conflicts of interests from one of my co-authors.  
     
-    This is my first research experience and first accepeted paper, and it's a pity that "accepted" was withdrawn. But we are not shy away from responsibilities. I also learn a lesson from it :). I will provide supporing materials soon. 
+    This is my first research experience and first accepeted paper, and it's a pity that "accepted" was withdrawn. But we are not shy away from responsibilities and I also learn a lesson from it :)
     
-<!-- ## Working papers  -->
-<!-- 
+    I will provide supporing materials soon. 
+<!--     
+## Working papers  
+
 1. One related to active learning in GNN), submitted to AAAI 2023
-2. Anonymous Paper (related to GNN Explainations), submitted to ICLR 2023 -->
+2. Anonymous Paper (related to GNN Explainations), submitted to ICLR 2023
  -->
     
 ## Internship 
