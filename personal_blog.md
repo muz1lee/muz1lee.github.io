@@ -26,7 +26,7 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
     
     **Update**: This paper became 'on hold' one month after the results announcing,  due to a mistake on declaring conflicts of interests from one of my co-authors.  
     
-    This is my first research experience and first accepeted paper, and it's a pity that "accepted" was withdrawn. But we are not shy away from responsibilities and I also learn a lesson from it :)
+    This is my first research experience and first accepted paper. It's a pity that "accepted" was withdrawn, but we are not shy away from responsibilities and I also learn a lesson from it :)
     
     I will provide supporing materials soon. 
 
