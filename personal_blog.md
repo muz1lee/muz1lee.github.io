@@ -19,7 +19,7 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 
 - Graph Learning
 
-## Publications 
+<!-- ## Publications 
 1. GFlowCausal: Generative Flow Networks for Causal Discovery.  Accepted by NeurIPS 2022
 
     Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye HAO, Yan Pang
@@ -29,7 +29,7 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
     This is my first research experience and first accepted paper. It's a pity that "accepted" was withdrawn, but we are not shy away from responsibilities and I also learn a lesson from it :)
     
     I will provide supporing materials soon. 
-
+ -->
     
 ## Internship 
 
