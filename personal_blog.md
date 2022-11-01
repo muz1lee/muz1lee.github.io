@@ -1,7 +1,7 @@
 ## About Me
 I am a second year Ph.D. student in the Institue of Operation Research and Analytics (IORA) at National University of Singapore. 
 
-I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/faculty-details/?profId=514), [Chou Mabel](https://bizfaculty.nus.edu.sg/faculty-details/?profId=112). I also cowork with [Li Yinchuan](https://yinchuanll.github.io/). 
+I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/faculty-details/?profId=514) and [Chou Mabel](https://bizfaculty.nus.edu.sg/faculty-details/?profId=112). I also co-work with [Li Yinchuan](https://yinchuanll.github.io/). 
 
 
 
