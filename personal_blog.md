@@ -20,15 +20,19 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 - Graph Learning
 
 ## Publications 
-1. GFlowCausal: Generative Flow Networks for Causal Discovery.  Accepted by NeurIPS 2022
+1. **GFlowCausal: Generative Flow Networks for Causal Discovery.  Accepted by NeurIPS 2022**
 
-    Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye HAO, Yan Pang
+    Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye Hao, Yan Pang
     
-    **Update**: This paper became 'on hold' one month after the results announcing,  due to a mistake on declaring conflicts of interests from one of my co-authors.  
+    ***Update***: This paper became 'on hold' one month after the results announcing,  due to a mistake on declaring conflicts of interests from one of my co-authors.  
     
     This is my first research experience and first accepted paper. It's a pity that "accepted" was withdrawn, but we are not shy away from responsibilities and we also learn a lesson from it :)
     
-    I will provide supporing materials soon. 
+2. **DAG Matters! GFlowNets Enhanced Explainer for Graph Neural Networks.  Accepted by ICLR 2023**
+
+    Wenqian Li, Yinchuan Li, Zhigang Li, Jianye Hao, Yan Pang
+    
+   
 
     
 ## Internship 
