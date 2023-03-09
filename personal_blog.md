@@ -24,9 +24,7 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 
     Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye Hao, Yan Pang
     
-    ***Update***: This paper became 'on hold' one month after the results announcing,  due to a mistake on declaring conflicts of interests from one of my co-authors.  
-    
-    This is my first research experience and first accepted paper. It's a pity that "accepted" was withdrawn, but we are not shy away from responsibilities and we also learn a lesson from it :)
+    ***Update***: This paper was accepted by NeurIPS 2022, and then was rejected before camera ready due to the mistake on declaring conflicts of interests from one of my co-authors. This is my first research experience and first accepted paper. It's a pity that the acceptance was withdrawn, but we are not shy away from responsibilities and we also learn a lesson from it.
     
 2. **DAG Matters! GFlowNets Enhanced Explainer for Graph Neural Networks.  Accepted by ICLR 2023**
 
