@@ -20,7 +20,7 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 - Graph Learning
 
 ## Publications 
-1. **GFlowCausal: Generative Flow Networks for Causal Discovery. Preprint **
+1. **GFlowCausal: Generative Flow Networks for Causal Discovery. Preprint**
 
     Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye Hao, Yan Pang
     
