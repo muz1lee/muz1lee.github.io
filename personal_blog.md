@@ -31,9 +31,10 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 2. **DAG Matters! GFlowNets Enhanced Explainer for Graph Neural Networks.  Accepted by ICLR 2023**
 
     Wenqian Li, Yinchuan Li, Zhigang Li, Jianye Hao, Yan Pang
-    
    
-
+3. **Generative Flow Networks for Precise Reward-Oriented Active Learning on Graphs. Accepted by ICLR IJCAI2023**
+    
+    Yinchuan Li, Wenqian Li, Zhigang Li, Yunfeng Shao, Yan Zheng, Jianye Hao
     
 ## Internship 
 
