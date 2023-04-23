@@ -34,7 +34,7 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
    
 3. **Generative Flow Networks for Precise Reward-Oriented Active Learning on Graphs. Accepted by IJCAI 2023**
     
-    Yinchuan Li, Wenqian Li, Zhigang Li, Yunfeng Shao, Yan Zheng, Jianye Hao
+    Yinchuan Li, Zhigang Li, Wenqian Li, Yunfeng Shao, Yan Zheng, Jianye Hao
     
 ## Internship 
 
