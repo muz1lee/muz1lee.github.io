@@ -28,11 +28,11 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
     The supporting materials contain all offical emails between NeurIPS program chairs and us, and our materials for clarifications. 
 <!--     The attched link [Supporting materials](https://drive.google.com/drive/folders/10CMiJhYS208kgp5-Yz3TefkzX666JnZx?usp=sharing) contains the offical emails between NeurIPS program chairs and us, and our materials for clarifications. -->
     
-2. **DAG Matters! GFlowNets Enhanced Explainer for Graph Neural Networks.  Accepted by ICLR 2023**
+2. **DAG Matters! GFlowNets Enhanced Explainer for Graph Neural Networks.  (ICLR 2023)**
 
     Wenqian Li, Yinchuan Li, Zhigang Li, Jianye Hao, Yan Pang
    
-3. **Generative Flow Networks for Precise Reward-Oriented Active Learning on Graphs. Accepted by IJCAI 2023**
+3. **Generative Flow Networks for Precise Reward-Oriented Active Learning on Graphs. (IJCAI 2023)**
     
     Yinchuan Li, Zhigang Li, Wenqian Li, Yunfeng Shao, Yan Zheng, Jianye Hao
     
