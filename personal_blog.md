@@ -21,6 +21,7 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 ## Working Papers 
 1. **Data Valuation and Detections in Federated Learning**
     Wenqian Li, Shuran Fu, Fengrui Zhang, Yan Pang
+   
 ## Publications 
 1. **GFlowCausal: Generative Flow Networks for Causal Discovery. Preprint**
 
