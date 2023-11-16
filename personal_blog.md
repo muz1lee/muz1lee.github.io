@@ -27,10 +27,6 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
 
     Wenqian Li, Yinchuan Li, Shengyu Zhu, Yunfeng Shao, Jianye Hao, Yan Pang
     
-    ***Update***: This paper was accepted by NeurIPS 2022, and then was rejected before camera ready due to the mistake on declaring conflicts of interests from one of my co-authors.This is my first research experience and first accepted paper. It's a pity that the acceptance was withdrawn, but we are not shy away from responsibilities and we also learn a lesson from this misconduct.
-    The supporting materials contain all offical emails between NeurIPS program chairs and us, and our materials for clarifications. 
-<!--     The attched link [Supporting materials](https://drive.google.com/drive/folders/10CMiJhYS208kgp5-Yz3TefkzX666JnZx?usp=sharing) contains the offical emails between NeurIPS program chairs and us, and our materials for clarifications. -->
-    
  **DAG Matters! GFlowNets Enhanced Explainer for Graph Neural Networks.  (ICLR 2023)**
 
     Wenqian Li, Yinchuan Li, Zhigang Li, Jianye Hao, Yan Pang
