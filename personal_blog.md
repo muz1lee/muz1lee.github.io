@@ -19,7 +19,7 @@ I am fortunately be advised by [James Pang Yan](https://bizfaculty.nus.edu.sg/fa
   
    
 ## Papers 
-  **Data Valuation and Detections in Federated Learning. Preprint** 
+  **Data Valuation and Detections in Federated Learning. (CVPR 2024)**
    
     Wenqian Li, Shuran Fu, Fengrui Zhang, Yan Pang
    
